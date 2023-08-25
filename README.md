@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my Git Repository](https://github.com/Shaik-Sameer77)
 
-- 🌱 I’m currently learning **Typescript, Next.js, Node.js**
+- 🌱 I’m currently learning **Typescript, Next.js, Node.js, Express.js, MongoDB**
 
 - 👯 I’m looking to collaborate on **Frontend Development**
 
