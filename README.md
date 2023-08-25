@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sameer.shammu.1514@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1rPD0hY3HqMp1W_m7tlszTdMMextjA-B8MLdh8N-WIZY](https://docs.google.com/document/d/1rPD0hY3HqMp1W_m7tlszTdMMextjA-B8MLdh8N-WIZY)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive?ths=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
