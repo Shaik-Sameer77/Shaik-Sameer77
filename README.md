@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript, Next.js, Node.js, Express.js, MongoDB**
 
-- 👯 I’m looking to collaborate on **Frontend Development**
+- 👯 I’m looking to collaborate on **Full Stack Web Development**
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Redux Tool Kit, MUI, BootStrap**
 
