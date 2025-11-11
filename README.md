@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on [my Git Repository](https://github.com/Shaik-Sameer77)
 
-- 🌱 I’m currently learning **Typescript, Next.js, Node.js, Express.js, MongoDB**
+- 🌱 I’m currently expanding my knowledge in **PostgreSQL** and deepening my understanding of the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.
 
 - 👯 I’m looking to collaborate on **Full Stack Web Development**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Redux Tool Kit, MUI, BootStrap**
+- 💬 Ask me about **Next.js, React.js, TypeScript, Node.js, Express.js, MongoDB, HTML5, CSS3, JavaScript, Redux Tool Kit, MUI, BootStrap**
 
 - 📫 How to reach me **sameer.developer14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sameer-shaik-7a96881b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameer-shaik-7a96881b7/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sameer-shaik-7a96881b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameer-shaik-7a96881b7/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
